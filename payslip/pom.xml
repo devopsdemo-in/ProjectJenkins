@@ -47,6 +47,7 @@
                 	<url>http://ec2-13-127-34-199.ap-south-1.compute.amazonaws.com:8081/repository/Proxy/</url>
         	</pluginRepository>
  	</pluginRepositories>
+	
   <build>
     <pluginManagement>
       <plugins>
